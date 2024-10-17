@@ -1,7 +1,9 @@
-const App = () => {
+import Add from "./components/Add";
 
-  return <section>hello!</section>
 
-};
+function App() {
+
+      return <Add />;
+}
 
 export default App;

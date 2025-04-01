@@ -1,0 +1,17 @@
+
+Exercícios da Lição 2 - Números e matemática  
+
+
+
+2a. Num restaurante, pede 1 sopa por 10 dólares, 
+3 hambúrgueres por 8 dólares cada e 1 gelado por 5 dólares. 
+Utilize JavaScript para calcular o custo do pedido.
+
+2b. Está num restaurante com 2 amigos (3 pessoas no total) e 
+faz o mesmo pedido que 2a. Calcule quanto paga cada pessoa.
+
+2c. Calcule o custo total de um brinde (18,50 dólares) e de duas t-shirts (7,50 dólares cada).
+
+2d. Calcule um imposto de 10% sobre o total do exercício 2c.
+
+2e. Calcule o imposto de 20% para o total em 2c (lembre-se que 1% = 1/100, logo 20% = 20/100 = 0,2).

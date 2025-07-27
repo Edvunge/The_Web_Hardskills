@@ -1,5 +1,13 @@
+import Greeting from "./components/Challenge6_ForDynamicContent/Greeting";
+import ProductInfo from "./components/Challenge6_ForDynamicContent/ProductInfo";
+
+
 function App() {
-  return <h1>Hello, World</h1>;
+  return <div>
+    
+    <Greeting />
+    <ProductInfo />
+  </div>
 }
 
 export default App;
